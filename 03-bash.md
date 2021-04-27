@@ -23,3 +23,4 @@ Ctrl posiada jeszcze inne wygone przelaczniki :
     This allows you to press Ctrl+XX to return to the start of the line, change something, 
     and then press Ctrl+XX to go back to your original cursor position. To use this shortcut, hold the Ctrl key and tap the X key twice.
 
+LIST
