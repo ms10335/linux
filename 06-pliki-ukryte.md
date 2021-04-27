@@ -19,3 +19,4 @@ Pliki, których nazwa zaczyna się od kropki.
 * Upewnij się, że `ls` go wyświetla.
 * Dopisz mu kropkę przed nazwą za pomocą odpowiedniej komendy.
 * Czy `ls` nadal go wyświetla? A `ls -a`?
+Add new line in file
