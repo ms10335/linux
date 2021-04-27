@@ -24,3 +24,4 @@
 *  bezwzględne - względem katalogu głównego, zaczynają się od `/`
 *  względne - względem aktualnego katalogu (`pwd`)
 
+ADD one line to the end of file
