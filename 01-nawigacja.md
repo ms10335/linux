@@ -25,3 +25,4 @@
 *  względne - względem aktualnego katalogu (`pwd`)
 
 ADD one line to the end of file
+ADD one line to the end of file Super One
